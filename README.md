@@ -2,7 +2,7 @@
 
 ## 练习
 
-### （1）编程实现HelloWorld
+### （1）编程实现 HelloWorld
 
 全部用命令行工具和 notepad 编辑器，不用 Eclipse 等集成编辑环境，每人手工创建并编译一个 Java 的命令行程序：“Hello World”。
 
